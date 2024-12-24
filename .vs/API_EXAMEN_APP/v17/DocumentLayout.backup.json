@@ -1,0 +1,647 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\migrations\\20241215012901_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:migrations\\20241215012901_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\commanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\commanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\typesbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\typesbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\typebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\typebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\books\\typebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\books\\typebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\books\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\books\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\subtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\subtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\subscribedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\subscribedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\subscribes\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\subscribes\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\subscribes\\subtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\subscribes\\subtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\subtupedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\subtupedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012402_final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241215012402_final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\apibbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\apibbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012203_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241215012203_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\pattern\\bookreposetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\pattern\\bookreposetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\pattern\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\pattern\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\migrations\\20241210230944_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:migrations\\20241210230944_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\migrations\\20241210113344_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:migrations\\20241210113344_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230758_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241210230758_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230202_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241210230202_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210225757_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241210225757_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\api_examen_app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:api_examen_app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|d:\\2em ing\\prog .net\\api_examen_app\\migrations\\20241212214341_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6728E2D3-8B55-4F52-8145-3AEF5A6B4A53}|API_EXAMEN_APP.csproj|solutionrelative:migrations\\20241212214341_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "API_EXAMEN_APP.http",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\API_EXAMEN_APP.http",
+              "RelativeDocumentMoniker": "API_EXAMEN_APP.http",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\API_EXAMEN_APP.http",
+              "RelativeToolTip": "API_EXAMEN_APP.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-10T10:12:20.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T12:22:06.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:12:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241215012901_final.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012901_final.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215012901_final.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012901_final.cs",
+              "RelativeToolTip": "Migrations\\20241215012901_final.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:29:02.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\CommandDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CommandDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\CommandDTO.cs",
+              "RelativeToolTip": "DTO\\CommandDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:58:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:53:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Books\\Book.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\Book.cs",
+              "RelativeToolTip": "Models\\Books\\Book.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA/wCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:19:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:47:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubscribeController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "Controllers\\SubscribeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:36:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthorDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "DTO\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:30:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypesBookController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\TypesBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TypesBookController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\TypesBookController.cs",
+              "RelativeToolTip": "Controllers\\TypesBookController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:20:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\CommandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommandController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\CommandController.cs",
+              "RelativeToolTip": "Controllers\\CommandController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:24:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "Models\\Commands\\Command.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Commands\\Command.cs",
+              "RelativeToolTip": "Models\\Commands\\Command.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:17:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeBookDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\TypeBookDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TypeBookDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\TypeBookDTO.cs",
+              "RelativeToolTip": "DTO\\TypeBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:58:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TypeBook.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\TypeBook.cs",
+              "RelativeDocumentMoniker": "Models\\Books\\TypeBook.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\TypeBook.cs",
+              "RelativeToolTip": "Models\\Books\\TypeBook.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:10:52.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Books\\Author.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Books\\Author.cs",
+              "RelativeToolTip": "Models\\Books\\Author.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:10:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubTypeController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\SubTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubTypeController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\SubTypeController.cs",
+              "RelativeToolTip": "Controllers\\SubTypeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:33:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubscribeDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\SubscribeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SubscribeDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\SubscribeDTO.cs",
+              "RelativeToolTip": "DTO\\SubscribeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:31:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subscribe.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Subscribes\\Subscribe.cs",
+              "RelativeDocumentMoniker": "Models\\Subscribes\\Subscribe.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Subscribes\\Subscribe.cs",
+              "RelativeToolTip": "Models\\Subscribes\\Subscribe.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:28:07.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubType.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Subscribes\\SubType.cs",
+              "RelativeDocumentMoniker": "Models\\Subscribes\\SubType.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Subscribes\\SubType.cs",
+              "RelativeToolTip": "Models\\Subscribes\\SubType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:34:00.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubTupeDTO.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\SubTupeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SubTupeDTO.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\SubTupeDTO.cs",
+              "RelativeToolTip": "DTO\\SubTupeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:19:05.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\Register.cs",
+              "RelativeDocumentMoniker": "DTO\\Register.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\Register.cs",
+              "RelativeToolTip": "DTO\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:45:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\Login.cs",
+              "RelativeDocumentMoniker": "DTO\\Login.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\DTO\\Login.cs",
+              "RelativeToolTip": "DTO\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:44:28.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:50:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241215012402_final2.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012402_final2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215012402_final2.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012402_final2.cs",
+              "RelativeToolTip": "Migrations\\20241215012402_final2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:24:02.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241215012203_final.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012203_final.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215012203_final.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241215012203_final.cs",
+              "RelativeToolTip": "Migrations\\20241215012203_final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:22:03.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiBbContext.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\ApiBbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApiBbContext.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\ApiBbContext.cs",
+              "RelativeToolTip": "Models\\ApiBbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:55:52.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookReposetry.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Pattern\\BookReposetry.cs",
+              "RelativeDocumentMoniker": "Models\\Pattern\\BookReposetry.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Pattern\\BookReposetry.cs",
+              "RelativeToolTip": "Models\\Pattern\\BookReposetry.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:04:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Pattern\\IBook.cs",
+              "RelativeDocumentMoniker": "Models\\Pattern\\IBook.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\Pattern\\IBook.cs",
+              "RelativeToolTip": "Models\\Pattern\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:59:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:21:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:17:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241212214341_third.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241212214341_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212214341_third.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241212214341_third.cs",
+              "RelativeToolTip": "Migrations\\20241212214341_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:43:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241210230944_second.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230944_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210230944_second.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230944_second.cs",
+              "RelativeToolTip": "Migrations\\20241210230944_second.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwIMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:09:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241210113344_intialmigration.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210113344_intialmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210113344_intialmigration.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210113344_intialmigration.cs",
+              "RelativeToolTip": "Migrations\\20241210113344_intialmigration.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:33:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241210230758_second.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230758_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210230758_second.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230758_second.cs",
+              "RelativeToolTip": "Migrations\\20241210230758_second.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:07:58.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241210230202_second.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230202_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210230202_second.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210230202_second.cs",
+              "RelativeToolTip": "Migrations\\20241210230202_second.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwIQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:02:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241210225757_third.cs",
+              "DocumentMoniker": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210225757_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241210225757_third.cs",
+              "ToolTip": "D:\\2em ING\\prog .NET\\API_EXAMEN_APP\\Migrations\\20241210225757_third.cs",
+              "RelativeToolTip": "Migrations\\20241210225757_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:57:57.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
